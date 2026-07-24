@@ -1,0 +1,7 @@
+# Agent-local scaffolding
+/AGENTS.md
+/.agent/
+/.agent-io-safety/
+
+# Private local notes
+/docs/**/private/
