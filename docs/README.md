@@ -21,6 +21,7 @@
 
 - `out/alexey-git-install-and-clone.md` — установка Git и клонирование репозитория.
 - `out/alexey-technical-start-plan.md` — технический старт: конфигуратор, KDiff3, типы, коллекции, алгоритмы и запросы.
+- `out/alexey-tasks-types-collections-algorithms.md` — практические задачи к пункту «Алгоритмы и код» с уровнями и критериями приемки.
 
 ## Актуальные рабочие планы
 
