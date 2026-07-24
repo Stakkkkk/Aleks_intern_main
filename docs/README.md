@@ -24,4 +24,5 @@
 
 ## Актуальные рабочие планы
 
-- `lib/plans/2026-07-24-alexey-technical-foundation-plan.md` — план технического базиса с задачами и контролем результата.
+- `lib/plans/2026-07-24-alexey-technical-foundation-plan.md` — основной маршрут технического базиса, отдельно от справочных материалов.
+- `lib/task-banks/2026-07-24-types-collections-and-algorithms.md` — банк задач наставника по типам, коллекциям и первым алгоритмам.
