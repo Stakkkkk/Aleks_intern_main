@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<UsualGroup name="Группа1" id="8">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 1</v8:content>
+				</v8:item>
+			</Title>
+			<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="9"/>
+			<ChildItems>
+				<Button name="Команда1" id="4">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда1</CommandName>
+					<ExtendedTooltip name="Команда1РасширеннаяПодсказка" id="5"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Группа2" id="10">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 2</v8:content>
+				</v8:item>
+			</Title>
+			<ExtendedTooltip name="Группа2РасширеннаяПодсказка" id="11"/>
+			<ChildItems>
+				<Button name="Команда2" id="6">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда2</CommandName>
+					<ExtendedTooltip name="Команда2РасширеннаяПодсказка" id="7"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Задача3" id="12">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 3</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача3</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ExtendedTooltip name="Задача3РасширеннаяПодсказка" id="13"/>
+			<ChildItems>
+				<Button name="Команда3" id="16">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда3</CommandName>
+					<ExtendedTooltip name="Команда3РасширеннаяПодсказка" id="17"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Задача4" id="14">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 4</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача4</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ExtendedTooltip name="Задача4РасширеннаяПодсказка" id="15"/>
+			<ChildItems>
+				<Button name="Команда4" id="18">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда4</CommandName>
+					<ExtendedTooltip name="Команда4РасширеннаяПодсказка" id="19"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Группа5" id="20">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 5</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа5</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ExtendedTooltip name="Группа5РасширеннаяПодсказка" id="21"/>
+			<ChildItems>
+				<Button name="Команда5" id="22">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда5</CommandName>
+					<ExtendedTooltip name="Команда5РасширеннаяПодсказка" id="23"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Группа6" id="24">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 6</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа6</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ExtendedTooltip name="Группа6РасширеннаяПодсказка" id="25"/>
+			<ChildItems>
+				<Button name="Команда6" id="26">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда6</CommandName>
+					<ExtendedTooltip name="Команда6РасширеннаяПодсказка" id="27"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Группа7" id="28">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задача 7</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа7</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ExtendedTooltip name="Группа7РасширеннаяПодсказка" id="29"/>
+			<ChildItems>
+				<Button name="Команда7" id="30">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.Команда7</CommandName>
+					<ExtendedTooltip name="Команда7РасширеннаяПодсказка" id="31"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:ExternalDataProcessorObject.ВнешняяОбработка2</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+		<Attribute name="Реквизит1" id="2">
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+	</Attributes>
+	<Commands>
+		<Command name="Команда1" id="1">
+			<Action>Команда1</Action>
+		</Command>
+		<Command name="Команда2" id="2">
+			<Action>Команда2</Action>
+		</Command>
+		<Command name="Команда3" id="3">
+			<Action>Команда3</Action>
+		</Command>
+		<Command name="Команда4" id="4">
+			<Action>Команда4</Action>
+		</Command>
+		<Command name="Команда5" id="5">
+			<Action>Команда5</Action>
+		</Command>
+		<Command name="Команда6" id="6">
+			<Action>Команда6</Action>
+		</Command>
+		<Command name="Команда7" id="7">
+			<Action>Команда7</Action>
+		</Command>
+	</Commands>
+</Form>
